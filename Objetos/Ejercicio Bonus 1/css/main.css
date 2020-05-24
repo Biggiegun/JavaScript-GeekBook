@@ -1,0 +1,33 @@
+#yellow{
+    background-color:  #ffcc00;
+}
+
+#orange{
+    background-color: #ff9900;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: large;
+}
+
+#estado{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    font-size: large;
+    width: 3em;
+}
+
+#actualizar{
+    border-radius: 0.5em;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    font-size: large;
+    width: 5em;
+}
